@@ -56,9 +56,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ## serveroutPut
-![server](<snmp/Screenshot 2023-11-21 192301.png>) serveroutput
+ ![output](./snmp/serveroutput.png)
 ## clientoutuput
-![Alt text](<snmp/Screenshot 2023-11-21 192250.png>)
+![output](./snmp/sclientoutput.png)
 
 
 
